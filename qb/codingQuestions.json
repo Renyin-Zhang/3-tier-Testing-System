@@ -1,0 +1,40 @@
+{
+    "questions": [
+      {
+        "question_number":"C1",
+        "language": "python",
+        "question": "Write a Python program to find the largest number in a list nums[]",
+        "sample_answer": "def find_largest_number(nums):\n    return max(nums)\n\nnums = [1, 2, 3, 4, 5]\nresult = find_largest_number(nums)\nprint(result)"
+      },
+      {
+        "question_number":"C2",
+        "language": "java",
+        "question": "Write a complete Java program (including main method) to find the smallest number in an array nums[]",
+        "sample_answer": "public class SmallestNumber {\n    public static int findSmallestNumber(int[] nums) {\n        int smallest = nums[0];\n        for (int i = 1; i < nums.length; i++) {\n            if (nums[i] < smallest) {\n                smallest = nums[i];\n            }\n        }\n        return smallest;\n    }\n\n    public static void main(String[] args) {\n        int[] nums = {1, 2, 3, 4, 5};\n        int result = findSmallestNumber(nums);\n        System.out.println(result); // Output: 1\n    }\n}"
+      },
+      {
+        "question_number":"C3",
+        "language": "python",
+        "question": "Write a Python program to reverse a string str",
+        "sample_answer": "def reverse_string(string):\n    return string[::-1]\n\nstr = \"Hello\"\nresult = reverse_string(str)\nprint(result)  # Output: olleH"
+      },
+      {
+        "question_number":"C4",
+        "language": "java",
+        "question": "Write a complete Java program (including main method) to reverse a string str",
+        "sample_answer": "public class ReverseString {\n    public static String reverseString(String str) {\n        StringBuilder sb = new StringBuilder(str);\n        return sb.reverse().toString();\n    }\n\n    public static void main(String[] args) {\n        String str = \"World\";\n        String result = reverseString(str);\n        System.out.println(result); // Output: dlroW\n    }\n}"
+      },
+      {
+        "question_number":"C5",
+        "language": "python",
+        "question": "Write a Python program to calculate the sum of two numbers n1 and n2",
+        "sample_answer": "def calculate_sum(n1, n2):\n    return n1 + n2\n\nn1 = 34\nn2 = 45\nresult = calculate_sum(n1, n2)\nprint(result)  # Output: 79"
+      },
+      {
+        "question_number":"C6",
+        "language": "python",
+        "question": "Write a complete Java program (including main method) to calculate the sum of two numbers n1 and n2",
+        "sample_answer": "public class CalculateSum {\n    public static int calculateSum(int n1, int n2) {\n        return n1 + n2;\n    }\n\n    public static void main(String[] args) {\n        int n1 = 34;\n        int n2 = 45;\n        int result = calculateSum(n1, n2);\n        System.out.println(result); // Output: 79\n    }\n}"
+      }
+    ]
+  }

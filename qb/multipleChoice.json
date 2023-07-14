@@ -1,0 +1,234 @@
+{
+    "questions": [
+        {
+            "question_number":"M1",
+            "question": "What is the largest ocean in the world?",
+            "answers": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Soutern Ocean"],
+            "correct": 1
+        },
+    
+        {
+            "question_number":"M2",
+            "question": "What is the atomic number of carbon?",
+            "answers": ["6", "8", "14", "3"],
+            "correct": 1
+        },
+        
+        {
+            "question_number":"M3",
+            "question": "What is the highest waterfall in the world?",
+            "answers": ["Angel Falls", "Niagara Falls", "Victoria Falls", "Yumbilla Falls"],
+            "correct": 2
+        },
+        
+        {
+            "question_number":"M4",
+            "question": "Which is the only continent that is also a country?",
+            "answers": ["Australia", "Antarctica", "South America", "Europe"],
+            "correct": 1
+        },
+        
+        {
+            "question_number":"M5",
+            "question": "What is the symbol for the element sodium?",
+            "answers": ["Na", "N", "Ni", "S"],
+            "correct": 1
+        },
+        
+        {
+            "question_number":"M6",
+            "question": "What is the diameter of Earth?",
+            "answers": ["12,742 kilometers", "9,800 kilometers", "15,000 kilometers", "6,378 kilometers"],
+            "correct": 1
+        },
+        
+        {
+            "question_number":"M7",
+            "question": "What is the largest desert in the world?",
+            "answers": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Arctic Desert"],
+            "correct": 1
+        },
+        
+        {
+            "question_number":"M8",
+            "question": "What is the smallest planet in our solar system?",
+            "answers": ["Mercury", "Mars", "Venus", "Pluto"],
+            "correct": 1
+        },
+        
+        {
+            "question_number":"M9",
+            "question": "What is the currency of Australia?",
+            "answers": ["Brazilian Real", "Australian Dollar", "Pound Sterling", "Australian Euro"],
+            "correct": 2
+        },
+            
+        {
+            "question_number":"M10",
+            "question": "What is the largest number?",
+            "answers": ["3", "9", "78", "77"],
+            "correct": 3
+        },
+        
+        {
+            "question_number":"M11",
+            "question": "What is the most widely spoken language in the world?",
+            "answers": ["Mandarin Chinese", "English", "Spanish", "Arabic"],
+            "correct": 2
+        },
+
+        {
+            "question_number":"M12",
+            "question": "What is the biggest planet in our solar system?", 
+            "answers": ["Saturn", "Mars", "Jupiter", "Earth"],
+            "correct": 3
+        },
+
+        {
+            "question_number":"M13",
+            "question": "Which country has the longest coastline in the world?", 
+            "answers": ["Egypt", "Russia", "Canada", "Australia"],
+            "correct": 3
+        },
+
+        {
+            "question_number":"M14",
+            "question": "What is 1 + 1?", 
+            "answers": ["5", "2", "8", "1"],
+            "correct": 2
+        },
+
+        {
+            "question_number":"M15",
+            "question": "What is the largest organ in the human body?", 
+            "answers": ["Skin", "Liver", "Heart", "Brain"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M16",
+            "question": "Which gas makes up the majority of the Earth's atmosphere?", 
+            "answers": ["Nitrogen", "Oxygen", "Carbon dioxide", "Carbon monoxide"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M17",
+            "question": "What is the largest animal in the world?", 
+            "answers": ["Blue whale", "African elephant", "Giraffe", "The Megalodon"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M18",
+            "question": "What is the capital of Australia?", 
+            "answers": ["Perth", "Toronto", "Canberra", "Melbourne"],
+            "correct": 3
+        },
+
+        {
+            "question_number":"M19",
+            "question": "What is the smallest country in the world?", 
+            "answers": ["Vatican City", "Monaco", "San Marino", "Singapore"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M20",
+            "question": "What is the chemical symbol for silver?", 
+            "answers": ["Ag", "Au", "Cu", "Si"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M21",
+            "question": "What is the boiling point of water?", 
+            "answers": ["100 degrees Celsius", "0 degrees Celsius", "50 degrees Celsius", "80 degrees Celsius"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M22",
+            "question": "What is the highest mountain in Africa?", 
+            "answers": ["Mount Kilimanjaro", "Mount Everest", "Mount McKinley", "Mount Tenpō"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M23",
+            "question": "What is the largest island in the Mediterranean?", 
+            "answers": ["Sicily", "Sardinia", "Cyprus", "Ibiza"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M24",
+            "question": "What is the capital of Japan?", 
+            "answers": ["Tokyo", "Kyoto", "Osaka", "Harajuku"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M25",
+            "question": "Which planet is known as the 'Red Planet'?", 
+            "answers": ["Mars", "Jupiter", "Saturn", "Mercury"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M26",
+            "question": "What is a cat?", 
+            "answers": ["an animal", "a machine", "a planet", "an Egyptian God"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M27",
+            "question": "What is the smallest continent in the world?", 
+            "answers": ["Australia", "Europe", "South America", "Africa"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M28",
+            "question": "What is the second most populous country in the world?", 
+            "answers": ["India", "China", "United States", "Japan"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M29",
+            "question": "What is the currency of Brazil?", 
+            "answers": ["Real", "Pound", "Dollar", "Ringgit"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M30",
+            "question": "What is the deadliest waterfall in the world?", 
+            "answers": ["Angel Falls", "Niagara Falls", "Victoria Falls", "Kaieteur falls"],
+            "correct": 4
+        },
+
+        {
+            "question_number":"M31",
+            "question": "What is the largest country in Africa?", 
+            "answers": ["Algeria", "France", "Canada", "Egypt"],
+            "correct": 1
+        },
+
+        {
+            "question_number":"M32",
+            "question": "What is the smallest number below?", 
+            "answers": ["5", "7", "4", "10"],
+            "correct": 3
+        },
+
+        {
+            "question_number":"M33",
+            "question": "What is the 3 + 3?", 
+            "answers": ["5", "6", "9", "36"],
+            "correct": 2
+        }
+    ]
+}
